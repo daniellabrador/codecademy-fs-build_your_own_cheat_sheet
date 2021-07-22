@@ -25,4 +25,4 @@ Any standard computer browser that can run this site will work as long as it can
 ## Sources
 
 The techniques utilized was based on the lessons taught in [Codecademy's Full-Stack Engineer Course](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
-). The challenge is also provided by Codecademy.
+). The challenge is also provided by Codecademy. To check similar outputs created by the Codecademy community, check the [forums](https://discuss.codecademy.com/t/build-your-own-cheatsheet-challenge-project-html-css/462393).
