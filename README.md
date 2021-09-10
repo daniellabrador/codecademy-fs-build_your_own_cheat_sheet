@@ -20,7 +20,7 @@ In this project, I’ll be building my own reference cheat sheet to help you bui
 
 ## Setup
 
-Any standard computer browser that can run this site will work as long as it can read HTML 5 and CSS 3. You can click this [link](https://daniellabrador.github.io/codecademy-build_your_own_cheat_sheet/) to view the live site.
+Any standard computer browser that can run this site will work as long as it can read HTML 5 and CSS 3. You can click this [link](https://daniellabrador.github.io/codecademy-fs-build_your_own_cheat_sheet/) to view the live site.
 
 ## Sources
 
